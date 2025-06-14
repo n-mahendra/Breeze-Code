@@ -1,6 +1,6 @@
-Project Summary: Breeze Code Editor
+Project Summary: Breeze Code
 
-The Breeze Code Editor is a Python desktop application built using Tkinter, designed to offer a lightweight and user-friendly code editing experience reminiscent of Notepad++.
+The Breeze Code is a Code Editor is a Python desktop application built using Tkinter, designed to offer a lightweight and user-friendly code editing experience reminiscent of Notepad++.
 
 Key Features:
 
