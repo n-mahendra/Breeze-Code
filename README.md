@@ -50,16 +50,8 @@ To run Breeze Code Editor, you'll need Python 3 installed on your system.
 
 Clone the repository (or download the source code):
 
-Bash
-
-git clone https://github.com/n-mahendra/BreezeCodeEditor.git
-cd BreezeCodeEditor
-Run the application:
-
-Bash
-
-python main.py
-(Assuming your main script file is named main.py or similar, adjust if needed.)
+bash
+py code.py
 
 Usage
 New Tab: Go to File -> New Tab or press Ctrl+N (if bound).
